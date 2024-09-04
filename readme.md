@@ -1,6 +1,6 @@
 # AWS Employee Directory App
 
-![Project-diagram](project-diagram-1.png)
+![Project-diagram](project-diagram.png)
 
 Run the template.  Pass in 3 parameters:
 •	DBInstanceMasterPassword
